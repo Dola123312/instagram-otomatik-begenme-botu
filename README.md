@@ -1,2 +1,1 @@
-# asd
-asdsadasdasd
+# instagram otomatik beğenme botu
